@@ -1,0 +1,10 @@
+{
+    "best_params": {
+        "lr": 0.0005134369783823349,
+        "dropout_rate": 0.4,
+        "weight_decay": 0.00010607190802583915,
+        "batch_size": 32
+    },
+    "best_value": 72.29,
+    "optuna_s": 6430.386692900001
+}

@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1,train_time_min,test_time_min
+ExtraTrees,1.0,0.01,1.0,0.019801980198019802,0.48394304833333684,0.006817989999998038

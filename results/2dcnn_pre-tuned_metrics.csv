@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1,train_time_min,test_time_min
+2DCNN Pre-Tuned,66.64,66.68981383261891,66.64,66.4364282849284,11.229721125,0.027045189999989817

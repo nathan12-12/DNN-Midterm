@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1,train_time_min,test_time_min
+EfficientNetB0 Pre-Tune,66.69,67.83872034695733,66.69000000000001,66.59407949209094,8.08931099666667,0.12379077166666927

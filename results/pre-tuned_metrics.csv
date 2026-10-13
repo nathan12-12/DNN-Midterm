@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1,train_time_min,test_time_min
+Pre-Tuned,68.66,68.8859772021887,68.66,68.51997698705873,16.221810225000002,0.02941569833333233
